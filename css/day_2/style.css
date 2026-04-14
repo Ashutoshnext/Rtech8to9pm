@@ -1,0 +1,56 @@
+/* *{
+    color: blueviolet;
+}
+
+.container{
+    width:400px;
+    height: 200px;
+    border: 1px solid red; 
+    /* short cut me dala hue hai  */
+
+/* } */
+
+/* h1{
+    color: red;
+}
+
+ .heading1{
+    color: blue;
+}
+
+ #heading1{
+    color: maroon;
+}
+
+#world{
+    color:yellow;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+#underline{
+     text-decoration: underline;
+} */ 
+
+
+
+/* part 2 */
+
+*{
+    color: #030319;
+}
+#h1{
+    color: #212188;
+}
+
+.h1{
+    color: yellow;
+}
+
+h1{
+    color:red ;
+}
+
+
