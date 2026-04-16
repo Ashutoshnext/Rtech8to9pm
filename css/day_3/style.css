@@ -1,0 +1,25 @@
+h1{
+    color: red;
+    text-align: center;
+    letter-spacing: 2px;
+}
+h2{
+    text-decoration:overline;
+    text-transform: capitalize;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-weight: bold;
+    word-spacing: 10px;
+    font-size: 20px;
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    line-height: 400px;
+    
+}
