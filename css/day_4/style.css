@@ -1,0 +1,19 @@
+.container{
+    width: 500px;
+    height: 400px;
+    border: 2px solid black;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 5px solid red;
+    margin: 20px;
+    padding: 20px;
+    box-sizing:border-box;
+    overflow: hidden;
+    outline:none ;
+    outline: 7px solid black;
+
+   
+}
